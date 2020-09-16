@@ -1159,3 +1159,9 @@ thead {
 .activity-bar-graph,.heatmap-color-5{
         background-color:#cc7575
 }
+
+.ui.positive.message {
+    background-color: #3d3629;
+    color: #d6cfc2;
+    box-shadow: inset 0 0 0 1px #5c513d, 0 0 0 0 transparent
+}
