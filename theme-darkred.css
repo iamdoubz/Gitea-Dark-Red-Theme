@@ -1165,3 +1165,29 @@ thead {
     color: #d6cfc2;
     box-shadow: inset 0 0 0 1px #5c513d, 0 0 0 0 transparent
 }
+
+.text.right {
+	background-color: #1B1C1D
+}
+
+.text.right .green.button, .text.right .green.buttons .button {
+    background-color: #1B1C1D;
+    color: #EFEFEF;
+    box-shadow: inset 0 0 0 1px #EFEFEF!important
+}
+
+.text.right .green.button:hover, .text.right .green.buttons .button:hover {
+    background-color: #EFEFEF;
+    color: #1B1C1D;
+    box-shadow: inset 0 0 0 1px #1B1C1D!important
+}
+
+.text.right .red.button:hover, .text.right .red.buttons .button:hover {
+    background-color: #000;
+    color: #D21414!important;
+    box-shadow: inset 0 0 0 1px #D21414!important
+}
+
+.edit-zone.text.right {
+	background-color: #000
+}
