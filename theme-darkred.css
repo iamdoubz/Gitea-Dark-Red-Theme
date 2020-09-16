@@ -1135,3 +1135,27 @@ thead {
 .ui .warning.header {
     background-color: #ff6f00!important
 }
+
+.heatmap-color-0{
+        background-color:#3a2c2c
+}
+
+.heatmap-color-1{
+        background-color:#4f4545
+}
+
+.heatmap-color-2{
+        background-color:#6f5252
+}
+
+.heatmap-color-3{
+        background-color:#8d5e5e
+}
+
+.heatmap-color-4{
+        background-color:#ae6b6b
+}
+
+.activity-bar-graph,.heatmap-color-5{
+        background-color:#cc7575
+}
