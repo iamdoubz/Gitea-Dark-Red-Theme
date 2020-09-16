@@ -1191,3 +1191,9 @@ thead {
 .edit-zone.text.right {
 	background-color: #000
 }
+
+.ui.inverted.green.basic.button:hover, .ui.inverted.green.basic.buttons .button:hover, .ui.inverted.green.buttons .basic.button:hover {
+    -webkit-box-shadow: 0 0 0 2px #EFEFEF inset;
+    box-shadow: 0 0 0 2px #EFEFEF inset;
+    color: #EFEFEF
+}
