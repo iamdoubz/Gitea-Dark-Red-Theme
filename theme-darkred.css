@@ -952,8 +952,12 @@ a:hover {
 }
 
 .repository .diff-file-box .code-diff-unified tbody tr.add-code td {
-  background-color: #6f0606 !important;
-  border-color: #de7c7c !important
+  background-color: #284e18 !important;
+  border-color: #b2e19d !important
+}
+
+.repository .diff-box .header .count .bar .add {
+    background-color: #284e18
 }
 
 .ui.secondary.menu .active.item {
@@ -1196,4 +1200,12 @@ thead {
     -webkit-box-shadow: 0 0 0 2px #EFEFEF inset;
     box-shadow: 0 0 0 2px #EFEFEF inset;
     color: #EFEFEF
+}
+
+.home a {
+    color: #FF0D00
+}
+
+.home .hero .svg {
+    color: #DC1E36
 }
