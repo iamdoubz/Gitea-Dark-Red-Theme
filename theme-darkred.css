@@ -515,7 +515,7 @@ a:hover {
 
 .ui.form input:not([type]):focus, .ui.form input[type=date]:focus, .ui.form input[type=datetime-local]:focus, .ui.form input[type=email]:focus, .ui.form input[type=file]:focus, .ui.form input[type=number]:focus, .ui.form input[type=password]:focus, .ui.form input[type=search]:focus, .ui.form input[type=tel]:focus, .ui.form input[type=text]:focus, .ui.form input[type=time]:focus, .ui.form input[type=url]:focus {
   color: rgba(0, 0, 0, .95);
-  border-color: #85b7d9;
+  border-color: #FF0D00;
   border-radius: .28571429rem;
   background: #767676;
   -webkit-box-shadow: 0 0 0 0 rgba(38, 34, 34, .35) inset;
@@ -523,7 +523,7 @@ a:hover {
 }
 
 .ui.input.focus>input, .ui.input>input:focus {
-  border-color: #85b7d9;
+  border-color: #FF0D00;
   background: #d4d4d5;
   color: rgba(0, 0, 0, .8);
   -webkit-box-shadow: none;
